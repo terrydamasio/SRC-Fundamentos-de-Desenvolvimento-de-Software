@@ -25,3 +25,8 @@
     python -m pip freeze > requirements.txt
 
 
+## starting local server
+
+    cd SRC
+    python manage.py runserver
+
