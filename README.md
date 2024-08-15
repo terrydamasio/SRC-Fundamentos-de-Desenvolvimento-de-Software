@@ -20,13 +20,13 @@
 
     python -m venv env 
     ./env/Scripts/activate
+    pip install -r requirements. txt
+    
     Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
     python -m pip freeze > requirements.txt
-
 
 ## starting local server
 
     cd SRC
     python manage.py runserver
-
