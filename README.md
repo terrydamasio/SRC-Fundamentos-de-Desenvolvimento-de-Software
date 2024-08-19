@@ -1,10 +1,10 @@
-<p align="center">
+<div align="center">
     <h1>
         <img src="https://skillicons.dev/icons?i=python,git,github" />
         </br>
         <b font-size: 20px;>🚀 SRC - Smart Relationship of Clients 🌟</b>
     </h1>
-</p>
+</div>
 
 ----
 
