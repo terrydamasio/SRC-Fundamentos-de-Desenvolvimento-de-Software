@@ -1,32 +1,75 @@
-# SRC
+<p align="center">
+    🚀 SRC - Smart Relationship of Clients 🌟
+    </br>
+    <img src="https://skillicons.dev/icons?i=python,git,github" />
+    </hr>
+</p>
 
-🚀 A SRC é uma solução poderosa e intuitiva, desenvolvida para transformar a maneira como sua empresa se relaciona com os clientes. Com uma interface amigável e funcionalidades avançadas, o SRC permite gerenciar todas as interações com seus clientes em um único lugar, promovendo um relacionamento mais próximo e personalizado.🌟
+<samp>
+ A SRC é uma solução poderosa e intuitiva, desenvolvida para transformar a maneira como sua empresa se relaciona com os clientes. Com uma interface amigável e funcionalidades avançadas, o SRC permite gerenciar todas as interações com seus clientes em um único lugar, promovendo um relacionamento mais próximo e personalizado. ⚡
+</samp>
 
-## Nossa Equipe
+> [!WARNING]
+> Projeto no inicio de desenvolvimento, sujeito a mudanças.
 
-👨‍💼 Terry Damasio Santos - Project Manager
+## 💪 Nossa Equipe
 
-👨‍💻 Heitor Santana Freitas Monteiro
+*👨‍💼 Terry Damasio Santos - Project Manager
 
-👨‍💻 Kerry Muniz Santos
+*👨‍💻 Rafael Varela Queimado
 
-👩‍💻 ⁠Maria Júlia de Paula Martins Germano
+*👨‍💻 Heitor Santana Freitas Monteiro
 
-👨‍💻 Rafael Varela Queimado
+*👨‍💻 Kerry Muniz Santos
 
-👨‍💻 Ricardo Block Veras Franco Neves
+*👩‍💻 ⁠Maria Júlia de Paula Martins Germano
 
-## Criando venv
+*👨‍💻 Ricardo Block Veras Franco Neves
 
-    python -m venv env 
-    ./env/Scripts/activate
-    pip install -r requirements. txt
-    
-    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+## ⚙️ Configuração rapida do projeto
 
-    python -m pip freeze > requirements.txt
+### 💻 Criando virtual environment
 
-## starting local server
+>Criar venv
 
-    cd SRC
-    python manage.py runserver
+```powershell
+python.exe -m venv env 
+```
+
+>Ativar venv
+
+```powershell
+./env/Scripts/activate.exe
+```
+
+>Instalar Dependencias do projeto (libs)
+
+```powershell
+pip.exe install -r requirements. txt
+```
+
+>Caso no computador do Cesar :shipit: executar o seguinte Script
+
+```powershell
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+
+>O seguinte script atualiza a lista de dependencias (libs)
+
+```powershell
+python.exe -m pip freeze > requirements.txt
+```
+
+### 🏃 Rodando o Servidor Dev Local
+
+>Navegue para a pasta Raiz do projeto
+
+```bat
+cd SRC
+```
+
+>Rode o servidor
+
+```powershell
+python.exe manage.py runserver
+```
