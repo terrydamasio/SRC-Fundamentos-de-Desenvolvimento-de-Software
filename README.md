@@ -1,10 +1,11 @@
 <p align="center">
-    <b font-size: 12px;>🚀 SRC - Smart Relationship of Clients 🌟</b>
+    <b font-size: 20px;>🚀 SRC - Smart Relationship of Clients 🌟</b>
     </br>
     <img src="https://skillicons.dev/icons?i=python,git,github" />
     </hr>
 </p>
------
+
+----
 
 > [!WARNING]
 > Projeto no inicio de desenvolvimento, sujeito a mudanças.
