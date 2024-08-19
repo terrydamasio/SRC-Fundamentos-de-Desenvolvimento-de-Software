@@ -1,15 +1,15 @@
 <div align="center">
     <h1>
-        <img src="https://skillicons.dev/icons?i=python,git,github" />
-        </br>
         <b font-size: 20px;>🚀 SRC - Smart Relationship of Clients 🌟</b>
     </h1>
+    </br>
+    <img src="https://skillicons.dev/icons?i=python,git,github" />
 </div>
-
-----
 
 > [!WARNING]
 > Projeto no inicio de desenvolvimento, sujeito a mudanças.
+
+---
 
 </br>
 <p align="center">
