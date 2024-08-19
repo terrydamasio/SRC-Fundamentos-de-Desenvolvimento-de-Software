@@ -8,7 +8,7 @@
 </div>
 
 > [!NOTE]
-> Projeto no inicio de desenvolvimento, sujeito a mudanças.
+> Projeto em inicio de desenvolvimento, sujeito a mudanças.
 
 ---
 
@@ -53,7 +53,7 @@ python.exe -m venv env
 pip.exe install -r requirements. txt
 ```
 
->Caso no computador do Cesar :shipit: executar o seguinte Script
+>Caso esteja sendo configurado em um computador do Cesar :shipit: executar o seguinte Script
 
 ```powershell
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
