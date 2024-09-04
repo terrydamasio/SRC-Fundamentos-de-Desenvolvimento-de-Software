@@ -17,6 +17,18 @@
     A SRC é uma solução poderosa e intuitiva, desenvolvida para transformar a maneira como sua empresa se relaciona com os clientes. Com uma interface amigável e funcionalidades avançadas, o SRC permite gerenciar todas as interações com seus clientes em um único lugar, promovendo um relacionamento mais próximo e personalizado. ⚡
 </p>
 
+## JIRA
+![Imagem Jira](https://drive.google.com/drive/u/0/folders/1xhpVfmi6a46mSaWzAnznFDEq18DuUVaZ)
+
+## Storyboard
+![Link storyboard](https://www.figma.com/design/al5hOfTsa6lACnnjdWik5v/Untitled?node-id=0-1&node-type=CANVAS&t=drVKI27B0PURqVSL-0)
+
+## Protótipo(sketch)
+![Link protótipo](https://www.figma.com/design/uWUO2t1XNSkiNllAtFBE8P/Untitled?node-id=0-1&node-type=CANVAS&t=PeLcBHo24RN81PXQ-0)
+
+## Screencast
+![Link screencast]()
+
 ## 💪 Nossa Equipe
 
 *👨‍💼 Terry Damasio Santos - Project Manager
