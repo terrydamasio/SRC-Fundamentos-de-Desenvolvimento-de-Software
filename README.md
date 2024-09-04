@@ -18,16 +18,16 @@
 </p>
 
 ## JIRA
-![Imagem Jira](https://drive.google.com/drive/u/0/folders/1xhpVfmi6a46mSaWzAnznFDEq18DuUVaZ)
+[Imagem Jira](https://drive.google.com/drive/u/0/folders/1xhpVfmi6a46mSaWzAnznFDEq18DuUVaZ)
 
 ## Storyboard
-![Link storyboard](https://www.figma.com/design/al5hOfTsa6lACnnjdWik5v/Untitled?node-id=0-1&node-type=CANVAS&t=drVKI27B0PURqVSL-0)
+[Link storyboard](https://www.figma.com/design/al5hOfTsa6lACnnjdWik5v/Untitled?node-id=0-1&node-type=CANVAS&t=drVKI27B0PURqVSL-0)
 
 ## Protótipo(sketch)
-![Link protótipo](https://www.figma.com/design/uWUO2t1XNSkiNllAtFBE8P/Untitled?node-id=0-1&node-type=CANVAS&t=PeLcBHo24RN81PXQ-0)
+[Link protótipo](https://www.figma.com/design/uWUO2t1XNSkiNllAtFBE8P/Untitled?node-id=0-1&node-type=CANVAS&t=PeLcBHo24RN81PXQ-0)
 
 ## Screencast
-![Link screencast]()
+[Link screencast]()
 
 ## 💪 Nossa Equipe
 
