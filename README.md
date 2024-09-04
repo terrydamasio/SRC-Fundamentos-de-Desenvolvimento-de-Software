@@ -18,7 +18,8 @@
 </p>
 
 ## JIRA
-[Imagem Jira](https://drive.google.com/drive/u/0/folders/1xhpVfmi6a46mSaWzAnznFDEq18DuUVaZ)
+![Imagem Quadro Jira](https://lh3.google.com/u/0/d/1RqUew1NtQzdyUxkrQpIpkDYjF_1ZC8fj=w1920-h912-iv2)
+![Imagem Backlog Jira]()
 
 ## Storyboard
 [Link storyboard](https://www.figma.com/design/al5hOfTsa6lACnnjdWik5v/Untitled?node-id=0-1&node-type=CANVAS&t=drVKI27B0PURqVSL-0)
