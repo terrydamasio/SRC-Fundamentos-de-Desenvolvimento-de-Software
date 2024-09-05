@@ -18,8 +18,11 @@
 </p>
 
 ## JIRA
-![Imagem Quadro Jira] <img src="resources/img/Kanban.png"/>
-![Imagem Backlog Jira] <img src="resources/img/backlog.png"/>
+### Kanban
+<img src="resources/img/Kanban.png"/>
+
+## Backlog
+<img src="resources/img/backlog.png"/>
 
 ## Storyboard
 [Link storyboard](https://www.figma.com/design/al5hOfTsa6lACnnjdWik5v/Untitled?node-id=0-1&node-type=CANVAS&t=drVKI27B0PURqVSL-0)
