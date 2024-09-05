@@ -21,7 +21,7 @@
 ### Kanban
 <img src="resources/img/Kanban.png"/>
 
-## Backlog
+### Backlog
 <img src="resources/img/backlog.png"/>
 
 ## Storyboard
