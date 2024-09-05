@@ -17,6 +17,12 @@
     A SRC é uma solução poderosa e intuitiva, desenvolvida para transformar a maneira como sua empresa se relaciona com os clientes. Com uma interface amigável e funcionalidades avançadas, o SRC permite gerenciar todas as interações com seus clientes em um único lugar, promovendo um relacionamento mais próximo e personalizado. ⚡
 </p>
 
+## DRIVE
+[Link do drive](https://drive.google.com/drive/u/4/folders/0AFF36nv8gFqdUk9PVA)
+#### Entrega 1
+[Link da entrega 1](https://drive.google.com/drive/u/4/folders/1EmybUog0gSd-5IMwIwxl0Fgz8bT8nZWN)
+
+
 ## JIRA
 ### Kanban
 <img src="resources/img/Kanban.png"/>
@@ -35,7 +41,7 @@
 [Link protótipo](https://www.figma.com/design/uWUO2t1XNSkiNllAtFBE8P/Untitled?node-id=0-1&node-type=CANVAS&t=PeLcBHo24RN81PXQ-0)
 
 ## Screencast
-[Link screencast]()
+[Link screencast](https://drive.google.com/drive/u/4/folders/1EmybUog0gSd-5IMwIwxl0Fgz8bT8nZWN)
 
 ## 💪 Nossa Equipe
 
